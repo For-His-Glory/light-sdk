@@ -8,6 +8,7 @@ package com.thelightphone.sleeptrainer
     import androidx.compose.runtime.*
     import androidx.compose.ui.Alignment
     import androidx.compose.ui.Modifier
+    import androidx.compose.ui.text.style.TextAlign
     import androidx.compose.ui.tooling.preview.Preview
 
     // LIGHT SDK [Functions on Light Phone] //
@@ -166,6 +167,7 @@ fun SleepTrainerHomeContent(
                     modifier = Modifier
                         .lightClickable { onNextInterval() }
                         .padding(1f.gridUnitsAsDp()),
+                    align = TextAlign.Center,
                     maxLines = 1
                 )
             }

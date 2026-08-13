@@ -77,8 +77,9 @@ fun SleepTrainerHistoryContent(
                                 variant = LightTextVariant.Detail,
                                 lighten = true
                             )
+                            val intervalText = if (session.intervalsCompleted == 1) "interval" else "intervals"
                             LightText(
-                                text = "${session.totalTimeSeconds / 60} min • ${session.intervalsCompleted} intervals",
+                                text = "${session.totalTimeSeconds / 60} min • ${session.intervalsCompleted} $intervalText",
                                 variant = LightTextVariant.Copy
                             )
                             Spacer(modifier = Modifier.height(1f.gridUnitsAsDp()))

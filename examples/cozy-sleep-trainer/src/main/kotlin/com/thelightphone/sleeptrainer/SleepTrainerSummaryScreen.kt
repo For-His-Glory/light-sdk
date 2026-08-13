@@ -44,7 +44,7 @@ fun SleepTrainerSummaryContent(
             horizontalAlignment = Alignment.CenterHorizontally
         ) {
             LightTopBar(
-                center = LightTopBarCenter.Text("Session Summary"),
+                center = LightTopBarCenter.Text("Summary"),
                 modifier = Modifier.padding(bottom = 2f.gridUnitsAsDp())
             )
 
