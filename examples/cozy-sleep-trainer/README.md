@@ -29,7 +29,7 @@ The project also gave me an opportunity to learn how to work within an existing 
 
 ### Home
 
-<img src="screenshots/home.png" alt="Cozy Sleep Trainer home screen" width="50">
+<img src="screenshots/home.png" alt="Cozy Sleep Trainer home screen" width="175"
 
 ### Active Timer
 
