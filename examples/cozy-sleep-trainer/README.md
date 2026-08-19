@@ -134,3 +134,8 @@ Building Cozy Sleep Trainer gave me hands-on experience with:
 - Debugging UI and application behavior on an Android emulator
 - Using Git branches, commits, and GitHub to manage and publish the project
 - Iterating on a working MVP instead of over-engineering the application
+## Light Community
+
+Cozy Sleep Trainer was built using the Light SDK and shared with the Light Phone community through the community's Tools discussion.
+
+[View the Cozy Sleep Trainer community discussion](https://github.com/orgs/lightphone/discussions/154)
