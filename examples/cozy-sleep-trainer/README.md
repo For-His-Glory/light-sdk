@@ -27,25 +27,35 @@ The project also gave me an opportunity to learn how to work within an existing 
 
 ## Screenshots
 
-### Home
+## Screenshots
 
-<img src="screenshots/home.png" alt="Cozy Sleep Trainer home screen" width="175">
-
-### Active Timer
-
-<img src="screenshots/active-timer.png" alt="Cozy Sleep Trainer active timer" width="175">
-
-### Interval Complete
-
-<img src="screenshots/interval-complete.png" alt="Cozy Sleep Trainer interval complete" width="175">
-
-### Session Summary
-
-<img src="screenshots/session-summary.png" alt="Cozy Sleep Trainer session summary" width="175">
-
-### History
-
-<img src="screenshots/history.png" alt="Cozy Sleep Trainer history" width="175">
+<table>
+  <tr>
+    <td align="center">
+      <strong>Home</strong><br>
+      <img src="screenshots/home.png" alt="Cozy Sleep Trainer home screen" width="175">
+    </td>
+    <td align="center">
+      <strong>Active Timer</strong><br>
+      <img src="screenshots/active-timer.png" alt="Cozy Sleep Trainer active timer" width="175">
+    </td>
+    <td align="center">
+      <strong>Interval Complete</strong><br>
+      <img src="screenshots/interval-complete.png" alt="Cozy Sleep Trainer interval complete" width="175">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Session Summary</strong><br>
+      <img src="screenshots/session-summary.png" alt="Cozy Sleep Trainer session summary" width="175">
+    </td>
+    <td align="center">
+      <strong>History</strong><br>
+      <img src="screenshots/history.png" alt="Cozy Sleep Trainer history" width="175">
+    </td>
+    <td></td>
+  </tr>
+</table>
 
 ## How It Works
 
