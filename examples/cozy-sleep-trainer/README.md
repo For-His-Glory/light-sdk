@@ -46,3 +46,25 @@ The project also gave me an opportunity to learn how to work within an existing 
 ### History
 
 <img src="screenshots/history.png" alt="Cozy Sleep Trainer history" width="175">
+
+## How It Works
+
+Cozy Sleep Trainer uses a simple interval-based timer based on the Ferber sleep-training method.
+
+1. The user starts a sleep-training session.
+2. The app begins the current interval countdown.
+3. When the interval reaches zero, the app triggers a vibration and pauses for the user to choose the next interval.
+4. The user can stop the session or continue to the next interval.
+5. Each completed interval contributes to the total session time.
+6. When the user stops the session, the app saves the session locally and displays a summary.
+7. Saved sessions can be viewed from the History screen.
+
+The interval schedule is:
+
+| Interval | Duration |
+|---|---:|
+| 1 | 2 minutes |
+| 2 | 5 minutes |
+| 3 | 10 minutes |
+| 4 | 15 minutes |
+| 5+ | 15 minutes |
