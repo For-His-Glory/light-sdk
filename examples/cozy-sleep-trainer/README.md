@@ -100,3 +100,23 @@ Session Data
 Android DataStore
   ↓
 Session History
+
+## Testing
+
+The project includes unit tests for core timer and schedule logic.
+
+Current tests verify:
+
+- Timer formatting for zero seconds, seconds, and minutes
+- Ferber interval progression
+- The 15-minute interval repeating after the initial schedule
+
+I also tested the application manually using the Android Studio Pixel 9 API 37.1 emulator, including:
+
+- Starting and stopping sessions
+- Timer countdown behavior
+- Interval progression
+- Session completion
+- Session summary display
+- Local history persistence
+- History display after restarting the app
