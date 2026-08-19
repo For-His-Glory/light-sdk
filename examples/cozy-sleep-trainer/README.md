@@ -79,3 +79,24 @@ The interval schedule is:
 - **Android DataStore** — Local session persistence
 - **Gradle** — Build and dependency management
 - **Git/GitHub** — Source control and project hosting
+
+## Architecture
+
+The application follows a simple flow:
+
+```text
+User
+  ↓
+Light Phone UI
+  ↓
+Jetpack Compose
+  ↓
+Sleep Trainer Screen
+  ↓
+Ferber Schedule + Timer State
+  ↓
+Session Data
+  ↓
+Android DataStore
+  ↓
+Session History
