@@ -121,3 +121,16 @@ I also tested the application manually using the Android Studio Pixel 9 API 37.1
 - Session summary display
 - Local history persistence
 - History display after restarting the app
+
+## What I Learned
+
+Building Cozy Sleep Trainer gave me hands-on experience with:
+
+- Learning Kotlin and Jetpack Compose by building a functioning application
+- Working with an unfamiliar SDK and existing project structure
+- Managing application state for a timer-based user interface
+- Persisting application data locally with Android DataStore
+- Writing and running basic unit tests
+- Debugging UI and application behavior on an Android emulator
+- Using Git branches, commits, and GitHub to manage and publish the project
+- Iterating on a working MVP instead of over-engineering the application
