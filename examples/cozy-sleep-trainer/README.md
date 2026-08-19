@@ -29,20 +29,20 @@ The project also gave me an opportunity to learn how to work within an existing 
 
 ### Home
 
-<img src="screenshots/home.png" alt="Cozy Sleep Trainer home screen" width="175"
+<img src="screenshots/home.png" alt="Cozy Sleep Trainer home screen" width="175">
 
 ### Active Timer
 
-![Cozy Sleep Trainer active timer](screenshots/active-timer.png)
+<img src="screenshots/active-timer.png" alt="Cozy Sleep Trainer active timer" width="175">
 
 ### Interval Complete
 
-![Cozy Sleep Trainer interval complete](screenshots/interval-complete.png)
+<img src="screenshots/interval-complete.png" alt="Cozy Sleep Trainer interval complete" width="175">
 
 ### Session Summary
 
-![Cozy Sleep Trainer session summary](screenshots/session-summary.png)
+<img src="screenshots/session-summary.png" alt="Cozy Sleep Trainer session summary" width="175">
 
 ### History
 
-![Cozy Sleep Trainer history](screenshots/history.png)
+<img src="screenshots/history.png" alt="Cozy Sleep Trainer history" width="175">
