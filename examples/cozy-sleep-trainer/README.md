@@ -4,6 +4,11 @@ A sleep-training timer built for the Light Phone using the Light SDK and Jetpack
 
 Cozy Sleep Trainer provides a simple Ferber-style interval timer designed for parents who want a low-distraction way to track sleep-training intervals without relying on a smartphone.
 
+## Project Links
+
+- [Source Code](https://github.com/For-His-Glory/light-sdk/tree/cozy-sleep-trainer/examples/cozy-sleep-trainer)
+- [Light Community Discussion](https://github.com/orgs/lightphone/discussions/154)
+
 ## Why I Built This
 
 I built Cozy Sleep Trainer as my first real application from scratch while learning Kotlin, Android development, and the Light SDK.
