@@ -98,8 +98,9 @@ Ferber Schedule + Timer State
 Session Data
   ↓
 Android DataStore
-  ↓
+  ↓ 
 Session History
+```
 
 ## Testing
 
