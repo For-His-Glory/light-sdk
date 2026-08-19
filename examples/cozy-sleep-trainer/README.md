@@ -44,17 +44,16 @@ The project also gave me an opportunity to learn how to work within an existing 
       <img src="screenshots/interval-complete.png" alt="Cozy Sleep Trainer interval complete" width="175">
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <strong>Session Summary</strong><br>
-      <img src="screenshots/session-summary.png" alt="Cozy Sleep Trainer session summary" width="175">
-    </td>
-    <td align="center">
-      <strong>History</strong><br>
-      <img src="screenshots/history.png" alt="Cozy Sleep Trainer history" width="175">
-    </td>
-    <td></td>
-  </tr>
+<tr>
+  <td align="center">
+    <strong>Session Summary</strong><br>
+    <img src="screenshots/session-summary.png" alt="Cozy Sleep Trainer session summary" width="175">
+  </td>
+  <td align="center">
+    <strong>History</strong><br>
+    <img src="screenshots/history.png" alt="Cozy Sleep Trainer history" width="175">
+  </td>
+</tr>
 </table>
 
 ## How It Works
