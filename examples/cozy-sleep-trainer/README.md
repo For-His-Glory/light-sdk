@@ -139,3 +139,13 @@ Building Cozy Sleep Trainer gave me hands-on experience with:
 Cozy Sleep Trainer was built using the Light SDK and shared with the Light Phone community through the community's Tools discussion.
 
 [View the Cozy Sleep Trainer community discussion](https://github.com/orgs/lightphone/discussions/154)
+
+## Future Improvements
+
+Potential future improvements include:
+
+- Testing the application on physical Light Phone hardware
+- Adding more sleep-training schedules or customizable intervals
+- Improving session history details
+- Expanding automated test coverage
+- Refining the user interface based on real-world use
