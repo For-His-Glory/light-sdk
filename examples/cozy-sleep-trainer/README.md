@@ -68,3 +68,14 @@ The interval schedule is:
 | 3 | 10 minutes |
 | 4 | 15 minutes |
 | 5+ | 15 minutes |
+
+## Technology
+
+- **Kotlin** — Application logic and Android development
+- **Jetpack Compose** — User interface
+- **Light SDK** — Light Phone integration and device-specific UI
+- **Kotlin Coroutines** — Timer and asynchronous operations
+- **Kotlin Serialization** — Session history serialization
+- **Android DataStore** — Local session persistence
+- **Gradle** — Build and dependency management
+- **Git/GitHub** — Source control and project hosting
